@@ -1,0 +1,20 @@
+{
+  "name": "generator-mayta-react",
+  "version": "1.0.0",
+  "author": "Gabriel Mayta",
+  "description": "Yeoman custom generator for my React applications",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielmayta/mayta-react-generator.git"
+  },
+  "files": [
+    "generators/v1"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.22.5"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ]
+}
